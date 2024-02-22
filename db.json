@@ -1,0 +1,242 @@
+{"pets": [
+    {
+      "id": 1,
+      "animal": "dog",
+      "name": "buddy",
+      "location": "casablanca",
+      "breed": "labrador",
+      "image": "https://placedog.net/500/280"
+    },
+    {
+      "id": 2,
+      "animal": "dog",
+      "name": "max",
+      "location": "rabat",
+      "breed": "bulldog",
+      "image": "https://placedog.net/500/281"
+    },
+    {
+      "id": 3,
+      "animal": "dog",
+      "name": "charlie",
+      "location": "fes",
+      "breed": "poodle",
+      "image": "https://placedog.net/500/282"
+    },
+    {
+      "id": 4,
+      "animal": "dog",
+      "name": "jack",
+      "location": "kenitra",
+      "breed": "beagle",
+      "image": "https://placedog.net/500/283"
+    },
+    {
+      "id": 5,
+      "animal": "dog",
+      "name": "bailey",
+      "location": "casablanca",
+      "breed": "boxer",
+      "image": "https://placedog.net/500/284"
+    },
+    {
+      "id": 6,
+      "animal": "dog",
+      "name": "cooper",
+      "location": "rabat",
+      "breed": "dalmatian",
+      "image": "https://placedog.net/500/285"
+    },
+    {
+      "id": 7,
+      "animal": "dog",
+      "name": "milo",
+      "location": "fes",
+      "breed": "shih tzu",
+      "image": "https://placedog.net/500/286"
+    },
+    {
+      "id": 8,
+      "animal": "dog",
+      "name": "ziggy",
+      "location": "kenitra",
+      "breed": "rottweiler",
+      "image": "https://placedog.net/500/287"
+    },
+    {
+      "id": 9,
+      "animal": "dog",
+      "name": "murphy",
+      "location": "casablanca",
+      "breed": "husky",
+      "image": "https://placedog.net/500/288"
+    },
+    {
+      "id": 10,
+      "animal": "dog",
+      "name": "lucky",
+      "location": "rabat",
+      "breed": "labradoodle",
+      "image": "https://placedog.net/500/289"
+    },
+    {
+      "id": 11,
+      "animal": "cat",
+      "name": "oliver",
+      "location": "fes",
+      "breed": "persian",
+      "image": "https://placekitten.com/200/290"
+    },
+    {
+      "id": 12,
+      "animal": "cat",
+      "name": "leo",
+      "location": "kenitra",
+      "breed": "maine coon",
+      "image": "https://placekitten.com/200/291"
+    },
+    {
+      "id": 13,
+      "animal": "cat",
+      "name": "milo",
+      "location": "casablanca",
+      "breed": "siamese",
+      "image": "https://placekitten.com/200/292"
+    },
+    {
+      "id": 14,
+      "animal": "cat",
+      "name": "charlie",
+      "location": "rabat",
+      "breed": "ragdoll",
+      "image": "https://placekitten.com/200/293"
+    },
+    {
+      "id": 15,
+      "animal": "cat",
+      "name": "max",
+      "location": "fes",
+      "breed": "bengal",
+      "image": "https://placekitten.com/200/294"
+    },
+    {
+      "id": 16,
+      "animal": "cat",
+      "name": "jack",
+      "location": "kenitra",
+      "breed": "sphynx",
+      "image": "https://placekitten.com/200/295"
+    },
+    {
+      "id": 17,
+      "animal": "cat",
+      "name": "simba",
+      "location": "casablanca",
+      "breed": "british shorthair",
+      "image": "https://placekitten.com/200/296"
+    },
+    {
+      "id": 18,
+      "animal": "cat",
+      "name": "loki",
+      "location": "rabat",
+      "breed": "norwegian forest",
+      "image": "https://placekitten.com/200/297"
+    },
+    {
+      "id": 19,
+      "animal": "cat",
+      "name": "oscar",
+      "location": "fes",
+      "breed": "abyssinian",
+      "image": "https://placekitten.com/200/298"
+    },
+    {
+      "id": 20,
+      "animal": "cat",
+      "name": "george",
+      "location": "kenitra",
+      "breed": "scottish fold",
+      "image": "https://placekitten.com/200/299"
+    },
+    {
+      "id": 21,
+      "animal": "bird",
+      "name": "sky",
+      "location": "casablanca",
+      "breed": "parakeet",
+      "image": "https://example.com/bird1.jpg"
+    },
+    {
+      "id": 22,
+      "animal": "bird",
+      "name": "sunny",
+      "location": "rabat",
+      "breed": "canary",
+      "image": "https://example.com/bird2.jpg"
+    },
+    {
+      "id": 23,
+      "animal": "bird",
+      "name": "jazz",
+      "location": "kenitra",
+      "breed": "finch",
+      "image": "https://example.com/bird4.jpg"
+    },
+    {
+      "id": 24,
+      "animal": "bird",
+      "name": "blu",
+      "location": "casablanca",
+      "breed": "macaw",
+      "image": "https://example.com/bird5.jpg"
+    },
+    {
+      "id": 25,
+      "animal": "bird",
+      "name": "pearl",
+      "location": "rabat",
+      "breed": "cockatiel",
+      "image": "https://example.com/bird6.jpg"
+    },
+    {
+      "id": 26,
+      "animal": "bird",
+      "name": "kiki",
+      "location": "fes",
+      "breed": "lovebird",
+      "image": "https://example.com/bird7.jpg"
+    },
+    {
+      "id": 27,
+      "animal": "bird",
+      "name": "falcon",
+      "location": "kenitra",
+      "breed": "hawk",
+      "image": "https://example.com/bird8.jpg"
+    },
+    {
+      "id": 28,
+      "animal": "bird",
+      "name": "zazu",
+      "location": "casablanca",
+      "breed": "african grey",
+      "image": "https://example.com/bird9.jpg"
+    },
+    {
+      "id": 29,
+      "animal": "bird",
+      "name": "angel",
+      "location": "rabat",
+      "breed": "budgerigar",
+      "image": "https://example.com/bird10.jpg"
+    },
+    {
+      "id": 30,
+      "animal": "bird",
+      "name": "flutter",
+      "location": "fes",
+      "breed": "sparrow",
+      "image": "https://example.com/bird11.jpg"
+    }
+  ] }
