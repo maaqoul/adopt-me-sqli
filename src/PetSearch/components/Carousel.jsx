@@ -29,7 +29,7 @@ class Carousel extends Component {
               src={image}
               key={image}
               alt="animal thumbnail"
-              className={index === active && "active"}
+              className={index === active ? "active" : ""}
               onClick={this.handleIndexClick}
               data-index={index}
             />
